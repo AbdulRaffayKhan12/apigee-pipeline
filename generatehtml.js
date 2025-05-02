@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 // Set your Apigee proxy and report paths here
-const reportPath = 'C:\\Users\\abdulraffay.khan\\report.json';  // Path to your report.json
-const outputPath = 'C:\\Users\\abdulraffay.khan\\report.html'; // Path to save the HTML report
+const reportPath = 'C:\ProgramData\Jenkins\.jenkins\workspace\akjsaskakskajsa\repo\reports\\report.json';  // Path to your report.json
+const outputPath = 'C:\ProgramData\Jenkins\.jenkins\workspace\akjsaskakskajsa\repo\reports\\report.html'; // Path to save the HTML report
 
 // Read the report.json file
 const data = JSON.parse(fs.readFileSync(reportPath, 'utf8'));
