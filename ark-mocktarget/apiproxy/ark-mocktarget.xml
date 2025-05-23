@@ -1,0 +1,16 @@
+<APIProxy revision="4" name="ark-mocktarget">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1748025615981</CreatedAt>
+    <LastModifiedAt>1748025615981</LastModifiedAt>
+    <BasePaths>/ark-mocktarget</BasePaths>
+    <Policies>
+        <Policy>Q-Config</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

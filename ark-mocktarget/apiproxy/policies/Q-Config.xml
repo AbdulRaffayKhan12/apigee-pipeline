@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quota continueOnError="false" enabled="true" name="Q-Config">
+  <DisplayName>Q-Configgg</DisplayName>
+  <Properties/>
+  <Allow count="10"/>
+  <Interval>1</Interval>
+  <Distributed>true</Distributed>
+  <Synchronous>true</Synchronous>
+  <TimeUnit>minute</TimeUnit>
+</Quota>
